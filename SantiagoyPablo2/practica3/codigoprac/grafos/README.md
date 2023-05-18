@@ -21,6 +21,13 @@ El repositorio se puede limpiar mediante el siguiente comando:
 ```console
 mvn test
 ```
+## Cómo realizar el JavaDoc
+
+El JavaDoc se realizará mediante el sigueinte comando.
+
+```console
+mvn javadoc:javadoc
+```
 
 ## Estructura del código
 
